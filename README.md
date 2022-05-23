@@ -1,7 +1,7 @@
 ### Hi there!👋 I'm Amanudin.
 
 - 🔭 I’m currently working as Frontend Developer
-- 🌱 I’m also learning NextJS
+- 🌱 I’m also learning NextJS Technology
 - 📫 Reach me: amanhrp.dev@gmail.com
 
 
