@@ -1,4 +1,4 @@
-### Hi there!👋 I'm Amanudin.
+### Hi there!👋 I'm Amanudin Harahap.
 
 - 🔭 I’m currently working as Frontend Developer
 - 🌱 I’m also learning NextJS Technology
